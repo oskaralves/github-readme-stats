@@ -67,7 +67,7 @@
 
 <p align="center">Please note that documentation translations may be outdated; try to use English documentation if possible.</p>
 
-<p align="center">Love the project? Please consider <a href="https://www.paypal.me/oskaralves">donating</a> to help it improve!</p>
+<p align="center">Love the project? Please consider <a href="https://www.paypal.me/anuraghazra">donating</a> to help it improve!</p>
 
 <a href="https://indiafightscorona.giveindia.org">
   <img src="https://cfstatic.give.do/logo.png" alt="Give india logo" width="200" />
